@@ -24,8 +24,7 @@
 
 ## Currently building
 
-- 📚 [Detection Engineering Portfolio]https://github.com/subramaniankkd-dev
-/detection-engineering-portfolio — Sigma rules + KQL/AQL conversions
+- 📚 [Detection Engineering Portfolio](https://github.com/subramaniankkd-dev/detection-engineering-portfolio) — Sigma rules + KQL/AQL conversions
 - ☁️ [Cloud Threat Detection](https://github.com/subramaniankkd-dev
 /cloud-threat-detection) — AWS/Azure detection library
 - 🔧 [CI/CD Security Pipeline](https://github.com/subramaniankkd-dev
